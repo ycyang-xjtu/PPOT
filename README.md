@@ -1,5 +1,5 @@
 # Prototypical Partial Optimal Transport for Universal Domain Adaptation
-Code for paper "Yucheng Yang, Xiang Gu, Jian Sun, **Prototypical Partial Optimal Transport for Universal Domain Adaptation**, the 37th AAAI Conference on Artificial Intelligence, 2023".
+Code for paper "Yucheng Yang, Xiang Gu, Jian Sun, [Prototypical Partial Optimal Transport for Universal Domain Adaptation](https://arxiv.org/abs/2408.01089), the 37th AAAI Conference on Artificial Intelligence, 2023".
 ## Prerequisites:
 python==3.9 <br>
 pytorch ==1.12.1 <br>
